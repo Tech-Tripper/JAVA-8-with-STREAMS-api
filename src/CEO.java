@@ -1,11 +1,11 @@
 import java.math.BigDecimal;
 
-public class CEOs {
+public class CEO {
 
     private String name;
     private int age;
 
-    public CEOs(String name, int age, String companyName, BigDecimal salary) {
+    public CEO(String name, int age, String companyName, BigDecimal salary) {
         this.name = name;
         this.age = age;
         this.companyName = companyName;
